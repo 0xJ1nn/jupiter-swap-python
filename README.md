@@ -5,7 +5,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/jupiter-swap-python?color=blue)](https://pypi.org/project/jupiter-swap-python/)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![CI](https://github.com/JinUltimate1995/jupiter-swap-python/actions/workflows/ci.yml/badge.svg)](https://github.com/JinUltimate1995/jupiter-swap-python/actions)
+[![CI](https://github.com/0xJ1nn/jupiter-swap-python/actions/workflows/ci.yml/badge.svg)](https://github.com/0xJ1nn/jupiter-swap-python/actions)
 
 Jupiter's own Python SDK was abandoned (returns 404). This library fills the gap — a clean, typed, async client for [Jupiter](https://jup.ag), the #1 DEX aggregator on Solana.
 
@@ -145,12 +145,12 @@ client = JupiterClient(api_key="your-api-key")
 
 ---
 
-## 📦 Also by JinUltimate1995
+## 📦 Also by 0xJ1nn
 
-- [**solana-rpc-resilient**](https://github.com/JinUltimate1995/solana-rpc-resilient) — Solana RPC client with automatic failover, rate limiting, and circuit breaker
-- [**dexscreener-python**](https://github.com/JinUltimate1995/dexscreener-python) — Async DexScreener API client for token/pair data across 80+ chains
-- [**pumpfun-python**](https://github.com/JinUltimate1995/pumpfun-python) — Buy/sell on PumpFun bonding curves + PumpSwap AMM, no Jupiter needed
-- [**pumpswap-python**](https://github.com/JinUltimate1995/pumpswap-python) — Direct Pump AMM (pAMMBay) swap instruction builder
+- [**solana-rpc-resilient**](https://github.com/0xJ1nn/solana-rpc-resilient) — Solana RPC client with automatic failover, rate limiting, and circuit breaker
+- [**dexscreener-python**](https://github.com/0xJ1nn/dexscreener-python) — Async DexScreener API client for token/pair data across 80+ chains
+- [**pumpfun-python**](https://github.com/0xJ1nn/pumpfun-python) — Buy/sell on PumpFun bonding curves + PumpSwap AMM, no Jupiter needed
+- [**pumpswap-python**](https://github.com/0xJ1nn/pumpswap-python) — Direct Pump AMM (pAMMBay) swap instruction builder
 
 ---
 

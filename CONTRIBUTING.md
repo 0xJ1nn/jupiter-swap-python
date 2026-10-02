@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/JinUltimate1995/jupiter-swap-python.git
+git clone https://github.com/0xJ1nn/jupiter-swap-python.git
 cd jupiter-swap-python
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
